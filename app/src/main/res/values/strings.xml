@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">povar1</string>
+    <string name="app_name">Povar</string>
+    <string name="notify_name">Notify Name</string>
+    <string name="notify_id">Notify Id</string>
 </resources>
